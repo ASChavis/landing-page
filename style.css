@@ -1,0 +1,52 @@
+body{
+    display:flex;
+
+    flex:1;
+}
+
+.upper-hyperlinks{
+    display:flex;
+    justify-content: center;
+    flex-direction:row;
+    align-items: center;
+
+    flex: 1;
+}
+
+.top-layer{
+    display: flex;
+
+    flex:1;
+
+}
+
+.second-layer{
+    display: flex;
+
+    flex:1;
+
+}
+
+.third-layer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+    flex:1;
+
+}
+
+.final-layer{
+    display: flex;
+
+    flex:1;
+
+}
+
+.footer{
+    display:flex;
+
+    flex:1;
+
+}

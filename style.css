@@ -14,7 +14,7 @@
 .upper-hyperlinks{
     display:flex;
     flex-direction: row;
-    justify-content: left;
+    justify-content: center;
     background-color: rgb(28, 45, 59);
     color:rgb(253, 253, 253);
     width: 100%;
@@ -26,9 +26,10 @@
 
 .upper-hyperlinks > .header-logo{
     display:flex;
-    justify-content: Left;
+    justify-content: center;
     font-size: x-large;
     margin-left: 220px;
+    margin-right: 120px;
 
     flex:1;
 }
@@ -36,18 +37,21 @@
 .upper-hyperlinks > .link1{
     display:flex;
     margin-right: 15px;
+    font-size: 18px;
 }
 
 .upper-hyperlinks > .link2{
     display:flex;
     margin-right: 15px;
+    font-size:18px;
 
 
 }
 
 .upper-hyperlinks > .link3{
     display:flex;
-    margin-right: 200px;
+    margin-right: 485px;
+    font-size:18px;
 
 }
 
